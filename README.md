@@ -1,2 +1,2 @@
 # flipkartclone.github
-Flipkar clone website
+Flipkart-clone website
